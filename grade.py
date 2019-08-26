@@ -10,7 +10,7 @@ def main():
 
 number =
 
-
+# !! : "Create a function that will ask the user for a number." These should be in a function 
 userInput = int(input("Enter a number"))
 userInput2 = int(input("Enter Another number"))
 main()
